@@ -1,1 +1,1 @@
-web: gunicorn acr.wsgi --log-file -
+web: gunicorn ACR.wsgi --log-file -
