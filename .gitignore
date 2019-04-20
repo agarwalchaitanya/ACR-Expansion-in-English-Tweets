@@ -1,5 +1,4 @@
-ACR/__pycache__/
-search/migrations/__pycache__/
-search/__pycache__/
-.env
-db.sqlite3
+.vscode
+train_data
+test_data
+doc2vec.pickle
