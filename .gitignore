@@ -2,3 +2,5 @@
 train_data
 test_data
 doc2vec.pickle
+.ipynb_checkpoints
+__pycache__
