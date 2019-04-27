@@ -1,6 +1,7 @@
 .vscode
 train_data
 test_data
+inferred_vector
 doc2vec.pickle
 .ipynb_checkpoints
 __pycache__

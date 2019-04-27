@@ -12,7 +12,7 @@ acr = {
   'im': ['instant messenger', 'instant message'],
   'k': ['ok', 'kiss'],
   'lol': ['laughing out loud', 'league of legends', 'lots of love', 'little old lady'],
-  'n/a': ['not available', 'not applicable'],
+  'na': ['not available', 'not applicable'],
   'nc': ['no comment', 'nice call', 'not cool'],
   'nm': ['not much', 'nevermind'],
   'np': ['no problem', 'neopets'],
