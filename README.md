@@ -3,7 +3,8 @@
 
 The app has been deployed [here](https://secret-fjord-90750.herokuapp.com/).
 ## ToDo :penguin:
-- [ ] Implement Search 
+- [x] Implement Search 
 - [x] Build Doc2Vec/BOW/TFIDF Models for Gensim Classifiers
 - [ ] Containerize
 - [x] Auto Deploy
+- [ ] Host the Doc2Vec Model
