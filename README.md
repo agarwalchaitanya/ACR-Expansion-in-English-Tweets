@@ -8,3 +8,6 @@ The app has been deployed [here](https://secret-fjord-90750.herokuapp.com/).
 - [ ] Containerize
 - [x] Auto Deploy
 - [ ] Host the Doc2Vec Model
+
+## Peek
+![gif](assets/acr.gif)
