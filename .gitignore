@@ -5,3 +5,4 @@ inferred_vector
 doc2vec.pickle
 .ipynb_checkpoints
 __pycache__
+db.sqlite3

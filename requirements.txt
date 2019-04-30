@@ -1,5 +1,7 @@
 Django==2.1.5
 django-heroku
+mysqlclient
+gunicorn
 tqdm
 pandas
 numpy
